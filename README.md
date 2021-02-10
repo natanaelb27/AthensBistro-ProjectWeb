@@ -1,1 +1,1 @@
-# Food Ordering System Web-Based Application
+# Food Ordering Web-Based Application
